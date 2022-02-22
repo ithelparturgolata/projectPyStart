@@ -30,7 +30,7 @@
 
 
 ## Instalacja
-* Python interpreter lub PyCharm lub inne IDE 
+* Python interpreter, PyCharm lub inne IDE 
 
 ## Kod
 ```Przykładowy kod:
